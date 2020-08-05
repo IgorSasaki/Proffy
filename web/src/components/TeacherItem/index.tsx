@@ -15,9 +15,7 @@ function TeacherItem() {
                 </div>
             </header>
             <p>
-                Entusiasta das melhores tecnologias de programação web avançada
-                <br/><br/>
-                Apaixonado por fazer sistemas web utilizando a omnistack
+                Entusiasta das melhores tecnologias de programação web avançada. Apaixonado por fazer sistemas web utilizando a omnistack
             </p>
             <footer>
                 <p>
